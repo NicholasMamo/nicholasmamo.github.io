@@ -1,3 +1,12 @@
+---
+title: "Opportunities for network analysis in journalism"
+date: ?-?-?T13:01:33+02:00
+draft: true
+tags:
+- topic detection and tracking
+- social media mining
+---
+
 # Opportunities for network analysis in journalism
 
 - Event tracking for news discovery

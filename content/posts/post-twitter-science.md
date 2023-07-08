@@ -32,4 +32,8 @@ But also:
 
 ## A new role for science
 
+Difference between social networks will push for more robust, more general approaches that do not rely on specific forms of content
+
+Less data, more novelty: instead of treating event tracking as a big data problem (now we no longer have lots of data), treat it as an information problem
+
 Back to aggregating and serving journalism
