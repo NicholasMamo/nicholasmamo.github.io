@@ -1,0 +1,39 @@
+baseURL = "http://nicholasmamo.github.io"
+languageCode = "en-us"
+title = "Thinking Topics"
+theme = 'paper'
+canonifyUrls = true
+googleAnalytics = "G-8L2KYY5HMZ"
+
+[params]
+enableGoogleAnalytics = true
+
+# color style
+color = 'linen'                           # linen, wheat, gray, light
+
+# header social icons
+# twitter = 'NicholasMamo'               # twitter.com/YOUR_TWITTER_ID
+github = 'NicholasMamo'                 # github.com/YOUR_GITHUB_ID
+linkedin = 'nicholas-mamo'             # linkedin.com/in/YOUR_LINKEDIN_ID
+# mastodon = 'https://mastodon.social/@memonick'           # e.g. 'https://mastodon.instance/@xxx'
+# rss = true                                # show rss icon
+
+# home page profile
+avatar = 'nicholasmamo@gmail.com'                 # gravatar email or image url
+name = 'Nicholas Mamo'
+bio = 'Published researcher and PhD in AI'
+
+# misc
+disableHLJS = true                        # disable highlight.js
+monoDarkIcon = true                       # show monochrome dark mode icon
+gravatarCdn = 'https://secure.gravatar.com/avatar/'         # e.g. 'https://cdn.v2ex.com/gravatar/'
+# graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
+math = true                               # enable KaTex math typesetting globally
+
+[[params.Links]]
+  name = 'About'
+  path = '/pages/about'
+
+[[params.Links]]
+  name = 'Publications'
+  path = '/pages/publications'
