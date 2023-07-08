@@ -56,10 +56,9 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
-          hugo -s \
-            --gc \
+          hugo --gc \
             --minify \
-            --baseURL "https://nicholasmamo.github.io"
+            --baseURL "${{ steps.pages.outputs.base_url }}"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
@@ -69,7 +68,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: "https://nicholasmamo.github.io"
+      url: ${{ steps.pages.outputs.base_url }}
     runs-on: ubuntu-latest
     needs: build
     steps:
