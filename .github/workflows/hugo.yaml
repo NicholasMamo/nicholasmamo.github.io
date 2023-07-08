@@ -59,7 +59,7 @@ jobs:
           hugo -s \
             --gc \
             --minify \
-            --baseURL ""
+            --baseURL "https://nicholasmamo.github.io"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
@@ -69,7 +69,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ""
+      url: "https://nicholasmamo.github.io"
     runs-on: ubuntu-latest
     needs: build
     steps:
