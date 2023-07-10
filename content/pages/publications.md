@@ -1,12 +1,13 @@
 ---
 title: "Publications"
 date: 2023-06-30T13:51:05+02:00
+lastmod: 2023-07-10T13:45:00+02:00
 draft: false
 menu: "main"
 ---
 
 - 2023
-    - [From Event Tracking to Event Modelling: Understanding as a Paradigm Shift. Knowledge Discovery, Knowledge Engineering and Knowledge Management (Communications in Computer and Information Science, vol 1718).](https://www.researchgate.net/publication/372215450_From_Event_Tracking_to_Event_Modelling_Understanding_as_a_Paradigm_Shift)
+    - [From Event Tracking to Event Modelling: Understanding as a Paradigm Shift. Knowledge Discovery, Knowledge Engineering and Knowledge Management.](https://www.researchgate.net/publication/372215450_From_Event_Tracking_to_Event_Modelling_Understanding_as_a_Paradigm_Shift)
     - [The Myth of Reproducibility: A Review of Event Tracking Evaluations on Twitter. Frontiers in Big Data (2023).](https://www.researchgate.net/publication/369795056_The_myth_of_reproducibility_A_review_of_event_tracking_evaluations_on_Twitter)
 - 2021
     - [Who? What? Event Tracking Needs Event Understanding. KDIR 2021: 13th International Joint Conference on Knowledge Discovery and Information Retrieval. **Short-listed for extended publication in Springer's Communications in Computer and Information Science book series.**](https://www.researchgate.net/publication/355761446_Who_What_Event_Tracking_Needs_Event_Understanding)
