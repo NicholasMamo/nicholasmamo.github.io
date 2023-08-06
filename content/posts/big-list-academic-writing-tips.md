@@ -1,6 +1,6 @@
 ---
 title: "The big list of academic writing tips"
-date: 2023-07-30T11:19:10+02:00
+date: 2023-08-06T18:43:30+02:00
 draft: false
 tags:
 - writing
