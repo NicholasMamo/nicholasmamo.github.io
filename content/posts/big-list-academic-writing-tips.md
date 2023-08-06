@@ -12,6 +12,8 @@ I hated the process and I hated the end-product.
 It is a common feeling, but I decided to study scientific writing and, more specifically, how to lend my character to it while staying within the norms.
 This blog post contains tricks that I learned to take control of the story, the grammar and the form of academic writing.
 
+> Accompanying this post is [The Big List of Academic Writing Resources]({{< ref "/posts/big-list-academic-writing-resources" >}} "The Big List of Academic Writing Resources").
+
 Before I get to the list, two points.
 First, function does not have to precede form.
 The following excerpt from a famous article by [Hermann Ebbinghaus](https://psycnet.apa.org/record/2004-16275-000), published more than a century ago, demonstrates that form can accompany function.
