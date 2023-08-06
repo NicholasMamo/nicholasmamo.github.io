@@ -9,7 +9,7 @@ googleAnalytics = "G-8L2KYY5HMZ"
 enableGoogleAnalytics = true
 
 # color style
-color = 'linen'                           # linen, wheat, gray, light
+color = 'light'                           # linen, wheat, gray, light
 
 # header social icons
 # twitter = 'NicholasMamo'               # twitter.com/YOUR_TWITTER_ID

@@ -8,7 +8,8 @@
     <div class="text-sm opacity-60">
       {{ if .Date }}
       <time>{{ .Date | time.Format ":date_medium" }}</time>
-      {{ end }}<!---->
+      {{ end }}
+      <!---->
       {{ $single_author := or .Params.Author site.Author.name }}
       <!---->
       {{ if $single_author }}
