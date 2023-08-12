@@ -35,7 +35,7 @@ In this blog post, I lost some of my suggested resources, including books and bl
 
 - [Power thesaurus](https://www.powerthesaurus.org/): an easy-to-use thesaurus that shows synonyms, antonyms and related words, supports filtering by parts of speech, and provides common synonyms and antonyms to refine searches
 
-- [Vocabulary.com](vocabulary.com/): an online dictionary with custom vocabulary lists and practice exercises based on spaced repetition
+- [Vocabulary.com](https://vocabulary.com/): an online dictionary with custom vocabulary lists and practice exercises based on spaced repetition
 
 - [Adonis](https://github.com/NicholasMamo/adonis-template/): a LaTeX template that I designed to be simple, elegant and readable; also [available as an Overleaf template](https://www.overleaf.com/latex/templates/adonis/xkgjzyqqhnkf)
 
@@ -45,7 +45,7 @@ In this blog post, I lost some of my suggested resources, including books and bl
 
 ## Visualizations
 
-- [Multiplex](github.com/NicholasMamo/multiplex-plot): an extension to Python's matplotlib that I developed to make it easier to create aesthetically-pleasing visualizations and to annotate figures with text
+- [Multiplex](https://github.com/NicholasMamo/multiplex-plot): an extension to Python's matplotlib that I developed to make it easier to create aesthetically-pleasing visualizations and to annotate figures with text
 
 - [Storytelling with Data](https://www.goodreads.com/en/book/show/45004977): an essential manual on designing visualizations that tell stories; also has a [blog](https://www.goodreads.com/en/book/show/45004977)
 
