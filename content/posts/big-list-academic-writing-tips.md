@@ -6,6 +6,8 @@ tags:
 - writing
 ---
 
+_This blog post will be updated regularly._
+
 When I started my PhD, I hated writing academically.
 I love writing, and I have freelanced as a writer for years, but I hated writing academically.
 I hated the process and I hated the end-product.

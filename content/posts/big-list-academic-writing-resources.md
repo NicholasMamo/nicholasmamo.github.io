@@ -1,10 +1,12 @@
 ---
 title: "The big list of academic writing resources"
-date: 2023-08-08T11:19:29+02:00
+date: 2023-08-12T19:49:29+02:00
 draft: false
 tags:
 - writing
 ---
+
+_This blog post will be updated regularly._
 
 Academic writing is a craft.
 Like all crafts, it requires practice, but it can also be learned.
