@@ -6,11 +6,13 @@ tags:
 - writing
 ---
 
-When I started working on my PhD, I hated writing academically.
+When I started my PhD, I hated writing academically.
 I love writing, and I have freelanced as a writer for years, but I hated writing academically.
 I hated the process and I hated the end-product.
 It is a common feeling, but I decided to study scientific writing and, more specifically, how to lend my character to it while staying within the norms.
 This blog post contains tricks that I learned to take control of the story, the grammar and the form of academic writing.
+
+> Accompanying this post is [The Big List of Academic Writing Resources]({{< ref "/posts/big-list-academic-writing-resources" >}} "The Big List of Academic Writing Resources").
 
 Before I get to the list, two points.
 First, function does not have to precede form.
@@ -94,7 +96,7 @@ I took the next example from a book chapter of mine called [_From Event Tracking
 ![A visualization that describes a framework in six steps. The visualization has a title and a caption. Each step also has a title, a short caption and an example using icons.](/images/apd-framework.png)
 
 - **Report significance, where possible.**
-Statistical significance lend credence to your story.
+Statistical significance lends credence to your story.
 I like to report significance in two ways.
 First, in-line, in parentheses, with three elements: the difference between two methods, the test of significance, and the p-value: _(from 36% to 54%; one-tailed paired samples t-test: p = 0.05)_.
 Second, in tables, using light and dark arrows to signify statistical significance at the 95% and 99% confidence intervals; [inspired by the table on page 23 in a paper by Campos et al. (2019)](https://sci-hub.se/10.1016/j.ins.2019.09.013).
@@ -231,6 +233,6 @@ In my PhD, I used humor to introduce a section memorably:
 
 - **Read like a writer.**
 I lifted the phrase from the brilliant _[Reading Like a Writer by Francine Prose](https://www.amazon.com/Reading-Like-Writer-Guide-People/dp/0060777052)_.
-Everyone has a different style: cultivate your by experimenting, and yes, imitating.
+Everyone has a different style: cultivate yours by experimenting, and yes, imitating.
 When you read something you like, stop and ask why you liked it and how the writer achieved the effect.
 I found the examples from H. P. Lovecraft in this blog post by reading closely and intentionally.
